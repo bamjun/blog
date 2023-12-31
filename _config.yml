@@ -50,4 +50,3 @@ defaults:
     values:
       tags: Other
       
-baseurl: "/blog"
