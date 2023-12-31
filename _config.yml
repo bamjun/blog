@@ -1,5 +1,5 @@
 title: "Bamjun's Code Sphere!"
-permalink: /blog/
+
 author: "bamjun"
 description: "bamjun's Coding Playground." # This will show up in places like twitter, linkedin, etc, if you share your sites url as a post.
 
@@ -28,7 +28,7 @@ linkedin_username: "잉쿠-아-24b78b261"
 # Lanyon: Features a content-first approach with a sliding sidebar​​.
 # Online-CV: A minimal theme for hosting a resume or CV on GitHub with ease​​.
 # Moon: A minimal, one-column theme, focusing on simplicity​​.
-theme: "Minimal Mistakes"
+theme: "Minima"
 
 rss: rss
 
