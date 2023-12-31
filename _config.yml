@@ -17,7 +17,16 @@ linkedin_username: "잉쿠-아-24b78b261"
 #########################################################################################
 ######### Nothing below needs to be changed (unless you know what you're doing) #########
 #########################################################################################
-##          Minimal Mistakes      minima
+# Minimal Mistakes: A flexible theme for building a personal site, blog, project documentation, or portfolio​​.
+# Al-Folio: A clean and responsive theme ideal for academics​​.
+# Just the Docs: Offers high customization and responsive design, specifically tailored for documentation with built-in search capabilities​​.
+# Chirpy: A minimal, responsive theme designed for technical writing​​.
+# Beautiful Jekyll: Allows you to build a simple and beautiful website quickly​​.
+# Hyde: A two-column theme that stands out for its bold style​​.
+# Minima: A one-size-fits-all theme, particularly suitable for writers​​.
+# Lanyon: Features a content-first approach with a sliding sidebar​​.
+# Online-CV: A minimal theme for hosting a resume or CV on GitHub with ease​​.
+# Moon: A minimal, one-column theme, focusing on simplicity​​.
 theme: "Minimal Mistakes"
 
 rss: rss
