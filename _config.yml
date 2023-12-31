@@ -1,5 +1,5 @@
 title: "Bamjun's Code Sphere"
-permalink: /blog/
+permalink: /blog/:year/:month/:day/:title.html
 author: "bamjun"
 
 description: "bamjun's Coding Playground." # This will show up in places like twitter, linkedin, etc, if you share your sites url as a post.
