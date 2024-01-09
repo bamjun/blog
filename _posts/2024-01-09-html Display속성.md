@@ -2,7 +2,12 @@
 
 <img src="https://github.com/bamjun/blog/blob/main/images/display%20image.png?raw=true" style="width=500px;">
 
+
+      
 CSS에서 `display` 속성은 HTML 요소가 문서 내에서 어떻게 보여질지를 결정합니다. 이 속성은 요소의 레이아웃 및 박스 모델의 동작을 제어하는 데 중요한 역할을 합니다. 주요 `display` 값에는 다음과 같은 것들이 있습니다:  
+
+
+      
 
 # 기본 html 예제
 ```html
@@ -47,10 +52,17 @@ CSS에서 `display` 속성은 HTML 요소가 문서 내에서 어떻게 보여�
 </body>
 </html>
 ```
-<img width="520" alt="image" src="https://github.com/bamjun/blog/assets/21354840/8e0b00b1-cec9-4868-8b30-4a58360927b0">
-  
 
-1. `block`: 요소가 블록 레벨 요소처럼 동작하게 합니다. 즉, 새로운 줄에서 시작하고, 가능한 최대 너비로 확장됩니다.  
+
+      
+<img width="520" alt="image" src="https://github.com/bamjun/blog/assets/21354840/8e0b00b1-cec9-4868-8b30-4a58360927b0">
+
+
+        
+
+1. `block`: 요소가 블록 레벨 요소처럼 동작하게 합니다. 즉, 새로운 줄에서 시작하고, 가능한 최대 너비로 확장됩니다.
+     
+  
 ```html
 <!DOCTYPE html>
 <html lang="en">
@@ -104,6 +116,9 @@ CSS에서 `display` 속성은 HTML 요소가 문서 내에서 어떻게 보여�
 
       
 2. `inline`: 요소가 인라인 요소처럼 동작하게 합니다. 즉, 새로운 줄을 시작하지 않고, 내용의 너비만큼만 차지합니다.
+     
+       
+      
 ```html
 <!DOCTYPE html>
 <html lang="en">
@@ -148,15 +163,19 @@ CSS에서 `display` 속성은 HTML 요소가 문서 내에서 어떻게 보여�
 </body>
 </html>
 ```
-  
+
+           
 <img width="194" alt="image" src="https://github.com/bamjun/blog/assets/21354840/9c6e004e-415f-4317-b814-7a5db1f73899">
-  
+    
   
 <img width="122" alt="image" src="https://github.com/bamjun/blog/assets/21354840/5673b851-5971-4cc5-8133-96dc80e5cfc1">  
-
-
-
+  
+      
+    
 3. `inline-block`: 요소가 인라인 요소처럼 줄에 배치되지만, 블록 요소처럼 너비와 높이를 가질 수 있습니다.
+
+
+                
 ```html
 <!DOCTYPE html>
 <html lang="en">
@@ -202,16 +221,16 @@ CSS에서 `display` 속성은 HTML 요소가 문서 내에서 어떻게 보여�
 </body>
 </html>
 ```
-
-
+  
+    
 <img width="199" alt="image" src="https://github.com/bamjun/blog/assets/21354840/fa58dd72-5821-4c2d-8191-34562c031532">
-
-
+    
+      
   
 <img width="512" alt="image" src="https://github.com/bamjun/blog/assets/21354840/af086058-8939-4bab-881c-a174e4710825">
-  
-
-
+       
+      
+     
 4. `none`: 요소가 화면에 표시되지 않습니다. 이 요소와 이 요소의 자식 요소들은 레이아웃에서 완전히 제거되며, 공간도 차지하지 않습니다.
 5. `flex`: 요소를 플렉스 컨테이너로 만들어, 그 안의 자식 요소들을 플렉스 아이템으로 배치합니다.
 6. `grid`: 요소를 그리드 컨테이너로 만들어, 그 안의 자식 요소들을 그리드 아이템으로 배치합니다.
