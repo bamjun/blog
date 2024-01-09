@@ -94,11 +94,15 @@ CSS에서 `display` 속성은 HTML 요소가 문서 내에서 어떻게 보여�
 </body>
 </html>
 ```
-  
+
+
+      
 <img width="209" alt="image" src="https://github.com/bamjun/blog/assets/21354840/fd6fbebd-ca0c-49ab-8d2e-8ab6240cef00">
 
+    
 <img width="123" alt="image" src="https://github.com/bamjun/blog/assets/21354840/302b02ad-db2a-430a-8750-46a49bf7b35f">
-  
+
+      
 2. `inline`: 요소가 인라인 요소처럼 동작하게 합니다. 즉, 새로운 줄을 시작하지 않고, 내용의 너비만큼만 차지합니다.
 ```html
 <!DOCTYPE html>
