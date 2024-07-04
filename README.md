@@ -1,3 +1,6 @@
+# [bamjun's 깃허브 페이지 바로가기](https://bamjun.github.io/blog/)
+
+
 create by https://chadbaldwin.net/2021/03/14/how-to-build-a-sql-blog.html
 
 
