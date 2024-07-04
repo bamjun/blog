@@ -2,7 +2,7 @@ title: "Bamjun's Code Sphere"
 author: "bamjun"
 
 baseurl: /blog
-posts_image_dir: "https://raw.githubusercontent.com/bamjun/blog/main/_posts"
+posts_image_dir: https://raw.githubusercontent.com/bamjun/blog/main/_posts
 
 
 
